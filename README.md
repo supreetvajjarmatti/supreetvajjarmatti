@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FullStackWebDeveloper</h1>
+<h1 align="center">Hi 👋, I'm WebDeveloper</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreetvajjarmatti&label=Profile%20views&color=0e75b6&style=flat" alt="supreetvajjarmatti" /> </p>
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [supreetvajjaramatti.blogspot.com](supreetvajjaramatti.blogspot.com)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Django**
 
 - 📫 How to reach me **supreetvajjaramatti@gmail.com**
 
