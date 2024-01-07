@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreetvajjarmatti&label=Profile%20views&color=0e75b6&style=flat" alt="supreetvajjarmatti" /> </p>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [supreetvajjaramatti.blogspot.com](supreetvajjaramatti.blogspot.com)
 
