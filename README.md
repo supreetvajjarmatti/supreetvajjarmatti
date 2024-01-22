@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Supreet</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on Brand_Page using React
+<p align="left"> <a href="https://twitter.com/supreetv18" target="blank"><img src="https://img.shields.io/twitter/follow/supreetv18?logo=twitter&style=for-the-badge" alt="supreetv18" /></a> </p>
 
 - 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **Javascript Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/supreetvajjarmatti/portfolio.git](https://github.com/supreetvajjarmatti/portfolio.git)
 
@@ -28,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supreetvajjarmatti&show_icons=true&locale=en&layout=compact" alt="supreetvajjarmatti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supreetvajjarmatti&show_icons=true&locale=en" alt="supreetvajjarmatti" /></p>
-
-
