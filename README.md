@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/supreetv18" target="blank"><img src="https://img.shields.io/twitter/follow/supreetv18?logo=twitter&style=for-the-badge" alt="supreetv18" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Mongodb**
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 
