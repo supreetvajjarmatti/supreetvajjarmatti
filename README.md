@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreetvajjarmatti&label=Profile%20views&color=0e75b6&style=flat" alt="supreetvajjarmatti" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **Javascript Projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **supreetvajjaramatti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=17rqKFiR0csq97LZFNa272gOdTiyDJNr-&usp=drive_fs](https://drive.google.com/open?id=17rqKFiR0csq97LZFNa272gOdTiyDJNr-&usp=drive_fs)
+- 📄 Know about my experiences [[https://drive.google.com/open?id=17rqKFiR0csq97LZFNa272gOdTiyDJNr-&usp=drive_fs](https://drive.google.com/open?id=17rqKFiR0csq97LZFNa272gOdTiyDJNr-&usp=drive_fs](https://drive.google.com/open?id=182cYkiZ5ofwIkDTqdroDxuDkLZr3cJb7&usp=drive_fs))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
