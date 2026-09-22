@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreetvajjarmatti&label=Profile%20views&color=0e75b6&style=flat" alt="supreetvajjarmatti" /> </p>
 
-- 🔭 I’m currently working on [Spotify Clone](https://github.com/supreetvajjarmatti/Spotify.git)
-
+- 🔭 I’m currently working on CyberGuard-AI
 - 👨‍💻 All of my projects are available at [https://supreet-vajjaramatti-portfolio.netlify.app/](https://supreet-vajjaramatti-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [supreetvajjaramatti.blogspot.com](supreetvajjaramatti.blogspot.com)
